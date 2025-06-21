@@ -620,7 +620,8 @@
         <!-- Ad Container - Top -->
         <div class="ad-container">
             <!-- Replace with your AdSense code -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7195227609473922"
+     crossorigin="anonymous"></script>"
                 crossorigin="anonymous"></script>
             <!-- Your Ad Unit -->
             <ins class="adsbygoogle"
@@ -656,7 +657,8 @@
         <!-- Ad Container - Middle -->
         <div class="ad-container">
             <!-- Replace with your AdSense code -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7195227609473922"
+     crossorigin="anonymous"></script>?"
                 crossorigin="anonymous"></script>
             <!-- Your Ad Unit -->
             <ins class="adsbygoogle"
@@ -727,7 +729,8 @@
     <div class="container">
         <div class="ad-container">
             <!-- Replace with your AdSense code -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7195227609473922"
+     crossorigin="anonymous"></script>"
                 crossorigin="anonymous"></script>
             <!-- Your Ad Unit -->
             <ins class="adsbygoogle"
